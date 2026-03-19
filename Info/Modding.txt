@@ -1,4 +1,4 @@
-trs.doc: Will try to keep this file up to date. Taurus additions here and
+trs.doc: Will try to keep this file up to date. Tarus BT additions here and
 in program code are tagged with "trs." or "trs.CAT" comments, where CAT
 describes the category of the change. There is also a Git repository:
 https://github.com/f1rpo/Taurus
@@ -45,7 +45,7 @@ ________________________________________________________________________________
 The following are all of the compile-time options for BULL. Each one has a unique preprocessor flag that you must define to enable the component. You do this with the /D option in your makefile.
 trs.doc: Most of these will break network compatibility with BULL.
 (Which might not be a concern at all, especially when building a
-mod with many rule changes on top of Taurus.)
+mod with many rule changes on top of Tarus BT.)
 
 [0] BUFFY
 (trs.doc: There aren't going to be multiple HOF-compatible mods, so this option
@@ -90,7 +90,7 @@ removed.)
 
 [5] Global Warming
 (trs.doc: The new game option will change the savegame format and thereby break
-the savegame import and export capabilities of Taurus.)
+the savegame import and export capabilities of Tarus BT.)
 	Flag: _MOD_GWARM
 	by Minor Annoyance
 	http://forums.civfanatics.com/showthread.php?t=302649
@@ -109,7 +109,7 @@ the savegame import and export capabilities of Taurus.)
 ____________________________________________________________________________________________________
 3. EVENTS
 
-These new events have already been added to BUG, but if you want to use them in a non-BUG-based mod you must add them yourself to the top of CvEventManager. (trs.doc: Never mind this. There is no non-BUG-based version of Taurus.)
+These new events have already been added to BUG, but if you want to use them in a non-BUG-based mod you must add them yourself to the top of CvEventManager. (trs.doc: Never mind this. There is no non-BUG-based version of Tarus BT.)
 
 Player
 

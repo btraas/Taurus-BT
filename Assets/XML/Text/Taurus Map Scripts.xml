@@ -63,7 +63,7 @@
 
 	<!-- trs.tectonx: Based on TXT_KEY_MAP_SCRIPT_ISLANDS,
 		 which is used for various map scripts. Want one just for Tectonics.
-		 (So this will only affect the version bundled with Taurus.) -->
+		 (So this will only affect the version bundled with Tarus BT.) -->
 	<TEXT>
 		<Tag>TXT_KEY_MAP_SCRIPT_ISLANDS_90</Tag>
 		<English>Islands (90%% water)</English>

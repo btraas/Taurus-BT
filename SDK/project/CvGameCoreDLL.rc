@@ -70,7 +70,7 @@ BEGIN
         BLOCK "040904b0"
         BEGIN
             VALUE "CompanyName", "Firaxis Games"
-            VALUE "FileDescription", "Modified GameCore DLL (Taurus Mod) for BtS 3.19"
+            VALUE "FileDescription", "Modified GameCore DLL (Tarus BT Mod) for BtS 3.19"
             VALUE "FileVersion", "1, 0, 3, 0"
             VALUE "InternalName", "Taurus GameCore DLL"
             VALUE "LegalCopyright", "Copyright (C) 2009 Firaxis Games, 2010 BUG Mod. All Rights Reserved."

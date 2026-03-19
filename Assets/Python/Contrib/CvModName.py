@@ -2,8 +2,8 @@
 
 # <trs.>
 modName = "Taurus"
-displayName = "Taurus"
-modVersion = "1.03"
+displayName = "Tarus BT"
+modVersion = "1.03.1"
 civVersion = "3.19"
 # </trs.>
 civName = "BtS"

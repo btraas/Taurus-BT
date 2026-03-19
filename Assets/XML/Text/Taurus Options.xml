@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
-<!-- trs.doc: Game text for Taurus additions to Mod Options screen -->
+<!-- trs.doc: Game text for Tarus BT additions to Mod Options screen -->
 <Civ4GameText xmlns="http://www.firaxis.com">
 
 	<!-- trs.promoleads: start -->
@@ -47,8 +47,8 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_TAURUS__SAVEMODNAME_HOVER</Tag>
-		<English>When checked, the name of the mod's folder (e.g. "Taurus") is written into your savegames. This is what mods normally do, and prevents other mods and BtS without mods from loading your savegames. Unchecking this option means that your savegames look just like unmodified savegames, so BtS (also with custom assets) will be able to load them. A downside is that double-clicking a savegame in Windows Explorer will no longer launch this mod. Hint: Regardless of this option, the key combination Shift+Ctrl+S can be used to "export" a savegame to BtS or to another mod.</English>
-		<German>Speichert den Ordner-Namen des Mods (z.B. "Taurus") in Spielständen. Das geschieht bei praktisch allen Mods und hat den Effekt, dass andere Mods sowie BtS ohne Mods diese Spielstände als inkompatibel zurückweisen. Ist die Option deaktiviert, dann wird kein Odner-Name gespeichert und BtS (ggf. auch mit installierten [COLOR_BUILDING_TEXT]CustomAssets[COLOR_REVERT]) akzeptiert unsere Spielstände. Allerdings lässt sich die Mod dann nicht mehr per Doppelklick auf eine Spielstands-Datei starten.</German>
+		<English>When checked, the name of the mod's folder (e.g. "Tarus BT") is written into your savegames. This is what mods normally do, and prevents other mods and BtS without mods from loading your savegames. Unchecking this option means that your savegames look just like unmodified savegames, so BtS (also with custom assets) will be able to load them. A downside is that double-clicking a savegame in Windows Explorer will no longer launch this mod. Hint: Regardless of this option, the key combination Shift+Ctrl+S can be used to "export" a savegame to BtS or to another mod.</English>
+		<German>Speichert den Ordner-Namen des Mods (z.B. "Tarus BT") in Spielständen. Das geschieht bei praktisch allen Mods und hat den Effekt, dass andere Mods sowie BtS ohne Mods diese Spielstände als inkompatibel zurückweisen. Ist die Option deaktiviert, dann wird kein Odner-Name gespeichert und BtS (ggf. auch mit installierten [COLOR_BUILDING_TEXT]CustomAssets[COLOR_REVERT]) akzeptiert unsere Spielstände. Allerdings lässt sich die Mod dann nicht mehr per Doppelklick auf eine Spielstands-Datei starten.</German>
 	</TEXT>
 	<!-- trs.modname: end -->
 
@@ -60,8 +60,8 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_TAURUS__MODNAMEINREPLAYS_HOVER</Tag>
-		<English>When checked, the name of the mod's folder (e.g. "Taurus") is written into your replay files, which excludes them from the Hall of Fame screen when BtS is run without mods. (As for showing replays created by BtS or other mods on the Taurus Hall of Fame screen, see [COLOR_BUILDING_TEXT]HOF_LIST_OTHER_REPLAYS[COLOR_REVERT] in [COLOR_BUILDING_TEXT]Assets\XML\GlobalDefinesAlt.xml[COLOR_REVERT].)</English>
-		<German>Speichert den Ordner-Namen des Mods (z.B. "Taurus") in [COLOR_BUILDING_TEXT]Civ4BeyondSwordReplay[COLOR_REVERT]-Dateien (Wiederholungen). Dies verhindert, dass die BtS-Ruhmeshalle Taurus-Replays aufführt, wenn kein Mod geladen ist. (Was die Anzeige von BtS-Replays und Replays anderer Mods in der Taurus-Ruhmeshalle angeht, siehe [COLOR_BUILDING_TEXT]HOF_LIST_OTHER_REPLAYS[COLOR_REVERT] in [COLOR_BUILDING_TEXT]Assets\XML\GlobalDefinesAlt.xml[COLOR_REVERT].)</German>
+		<English>When checked, the name of the mod's folder (e.g. "Tarus BT") is written into your replay files, which excludes them from the Hall of Fame screen when BtS is run without mods. (As for showing replays created by BtS or other mods on the Tarus BT Hall of Fame screen, see [COLOR_BUILDING_TEXT]HOF_LIST_OTHER_REPLAYS[COLOR_REVERT] in [COLOR_BUILDING_TEXT]Assets\XML\GlobalDefinesAlt.xml[COLOR_REVERT].)</English>
+		<German>Speichert den Ordner-Namen des Mods (z.B. "Tarus BT") in [COLOR_BUILDING_TEXT]Civ4BeyondSwordReplay[COLOR_REVERT]-Dateien (Wiederholungen). Dies verhindert, dass die BtS-Ruhmeshalle Taurus-Replays aufführt, wenn kein Mod geladen ist. (Was die Anzeige von BtS-Replays und Replays anderer Mods in der Taurus-Ruhmeshalle angeht, siehe [COLOR_BUILDING_TEXT]HOF_LIST_OTHER_REPLAYS[COLOR_REVERT] in [COLOR_BUILDING_TEXT]Assets\XML\GlobalDefinesAlt.xml[COLOR_REVERT].)</German>
 	</TEXT>
 	<!-- trs.replayname: end -->
 
@@ -125,8 +125,8 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPT_TAURUS__OFFSCREENUNITSIZEMULT_HOVER</Tag>
-		<English>Multiplier for the [COLOR_HIGHLIGHT_TEXT]Balloon Size[COLOR_REVERT] when the currently selected unit is off-screen. (Off-screen indicators shown for certain events are not affected by this multiplier.) [COLOR_HIGHLIGHT_TEXT]1.4[COLOR_REVERT] is the Taurus default, [COLOR_HIGHLIGHT_TEXT]1.6[COLOR_REVERT] is closest to the original behavior. [COLOR_HIGHLIGHT_TEXT]Disable[COLOR_REVERT] means that no balloon is shown for off-screen units. Changes won't take effect until a different unit is selected.</English>
-		<German>Faktor, mit dem die [COLOR_HIGHLIGHT_TEXT]Ballon-Größe[COLOR_REVERT] multipliziert wird, wenn die derzeit ausgewählte Einheit nicht im Bild ist. Standard in Taurus ist [COLOR_HIGHLIGHT_TEXT]1.4[COLOR_REVERT], in BtS betrug der Faktor ca. [COLOR_HIGHLIGHT_TEXT]1.6[COLOR_REVERT]. Die Einheiten-Ballons am Bildrand können auch ganz deaktiviert werden ([COLOR_HIGHLIGHT_TEXT]Keine[COLOR_REVERT]). Änderungen werden erst nach Auswahl einer anderen Einheit wirksam. (Ein Ballon am Bildrand wird auch bei manchen Ereignis-Meldungen angezeigt; diese Option hier betrifft aber nur Einheiten.)</German>
+		<English>Multiplier for the [COLOR_HIGHLIGHT_TEXT]Balloon Size[COLOR_REVERT] when the currently selected unit is off-screen. (Off-screen indicators shown for certain events are not affected by this multiplier.) [COLOR_HIGHLIGHT_TEXT]1.4[COLOR_REVERT] is the Tarus BT default, [COLOR_HIGHLIGHT_TEXT]1.6[COLOR_REVERT] is closest to the original behavior. [COLOR_HIGHLIGHT_TEXT]Disable[COLOR_REVERT] means that no balloon is shown for off-screen units. Changes won't take effect until a different unit is selected.</English>
+		<German>Faktor, mit dem die [COLOR_HIGHLIGHT_TEXT]Ballon-Größe[COLOR_REVERT] multipliziert wird, wenn die derzeit ausgewählte Einheit nicht im Bild ist. Standard in Tarus BT ist [COLOR_HIGHLIGHT_TEXT]1.4[COLOR_REVERT], in BtS betrug der Faktor ca. [COLOR_HIGHLIGHT_TEXT]1.6[COLOR_REVERT]. Die Einheiten-Ballons am Bildrand können auch ganz deaktiviert werden ([COLOR_HIGHLIGHT_TEXT]Keine[COLOR_REVERT]). Änderungen werden erst nach Auswahl einer anderen Einheit wirksam. (Ein Ballon am Bildrand wird auch bei manchen Ereignis-Meldungen angezeigt; diese Option hier betrifft aber nur Einheiten.)</German>
 	</TEXT>
 	<!-- trs.balloon: end -->
 

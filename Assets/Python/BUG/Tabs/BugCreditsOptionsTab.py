@@ -81,7 +81,7 @@ credits = [
 			"Sto - Full of Resources",
 		# <trs.doc>
 		"-",
-		"TAURUS_CREDITS|Taurus Mod",
+		"TAURUS_CREDITS|Tarus BT Mod",
 			"jdog5000 - AI Auto Play",
 			"karadoc (K-Mod) - More flexible loading of translations, various UI tweaks and bugfixes",
 			"Nightinggale - GameCoreDLL Makefile",

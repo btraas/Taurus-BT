@@ -30,9 +30,9 @@
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPTBUTTON_HELP_HOVER</Tag>
-		<English>Opens the Taurus help file. You can also hit [ALT + CTRL + F1] from the main interface.</English>
-		<French>Ouvre le fichier d'aide du BUG Mod. Vous pouvez aussi utiliser [ALT + CTRL + F1] dans l'écran principal du jeu.</French>
-		<German>Öffnet die externe Taurus-Hilfe (Tastenkombination [STRG + ALT + F1] im Hauptbildschirm)</German>
+		<English>Opens the Tarus BT help file. You can also hit [ALT + CTRL + F1] from the main interface.</English>
+		<French>Ouvre le fichier d'aide du BUG Mod. Vous pouvez aussi utiliser [ALT + CTRL + F1] dans l'ï¿½cran principal du jeu.</French>
+		<German>ï¿½ffnet die externe Taurus-Hilfe (Tastenkombination [STRG + ALT + F1] im Hauptbildschirm)</German>
 		<Italian>Apre il file della Guida del BUG Mod. Puoi utilizzare la scorciatoia [ALT + CTRL + F1] dall'interfaccia principale.</Italian>
 		<Spanish>Opens the BUG Mod help file. You can hit [ALT + CTRL + F1] from the main interface.</Spanish>
 	</TEXT>
@@ -41,8 +41,8 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPTBUTTON_EXIT_HOVER</Tag>
 		<English>Exits the Options screen</English>
-		<French>Sortir de l'écran d'options du BUG.</French>
-		<German>Optionsmenü schließen</German>
+		<French>Sortir de l'ï¿½cran d'options du BUG.</French>
+		<German>Optionsmenï¿½ schlieï¿½en</German>
 		<Italian>Esci dalla schermata delle Opzioni del BUG Mod.</Italian>
 	</TEXT>
 	<!-- trs. Was "BUG Options Screen"  -->
@@ -59,7 +59,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPTTAB_GENERAL</Tag>
 		<English>General</English>
-		<French>Général</French>
+		<French>Gï¿½nï¿½ral</French>
 		<German>Allgemein</German>
 		<Italian>Generale</Italian>
 		<Spanish>General</Spanish>
@@ -136,9 +136,9 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPTLABEL_INIFILENOTFOUND</Tag>
 		<English>Cannot Find INI File</English>
-		<French>Fichier INI Non Trouvé</French>
+		<French>Fichier INI Non Trouvï¿½</French>
 		<German>INI-Datei nicht gefunden</German>
-		<Italian>Il file 'BUG Mod.ini' non è stato trovato</Italian>
+		<Italian>Il file 'BUG Mod.ini' non ï¿½ stato trovato</Italian>
 		<Spanish>Cannot Find INI File</Spanish>
 	</TEXT>
 
@@ -146,18 +146,18 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPTTAB_SAVES</Tag>
 		<English>Saves</English>
-		<German>Spielstände</German>
+		<German>Spielstï¿½nde</German>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPTLABEL_COMPAT</Tag>
 		<English>Compatibility:</English>
-		<German>Kompatibilität:</German>
+		<German>Kompatibilitï¿½t:</German>
 	</TEXT>
 	<!-- trs.savmsg -->
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPTLABEL_SAVEMSG</Tag>
 		<English>Feedback:</English>
-		<German>Rückmeldung:</German>
+		<German>Rï¿½ckmeldung:</German>
 	</TEXT>
 	<!-- Moved from General tab, renamed from "AutoSaves". -->
 	<TEXT>
@@ -203,7 +203,7 @@
 		<Tag>TXT_KEY_BUG_OPTLABEL_TILEHOVER</Tag>
 		<English>Tile Hover:</English>
 		<French>Tile Hover:</French>
-		<German>Geländefeld-Tooltip:</German>
+		<German>Gelï¿½ndefeld-Tooltip:</German>
 		<Italian>Tile Hover:</Italian>
 		<Spanish>Tile Hover:</Spanish>
 	</TEXT>
@@ -211,7 +211,7 @@
 		<Tag>TXT_KEY_BUG_OPTLABEL_CITYPLOTS</Tag>
 		<English>City Tiles:</English>
 		<French>City Tiles:</French>
-		<German>Stadt-Geländefelder:</German>
+		<German>Stadt-Gelï¿½ndefelder:</German>
 		<Italian>City Tiles:</Italian>
 		<Spanish>City Tiles:</Spanish>
 	</TEXT>
@@ -278,7 +278,7 @@
 		<Tag>TXT_KEY_BUG_OPTLABEL_MILITARY_ADVISOR</Tag>
 		<English>Military [F5]:</English>
 		<French>Militaire [F5]:</French>
-		<German>Militär [F5]:</German>
+		<German>Militï¿½r [F5]:</German>
 		<Italian>Militare [F5]:</Italian>
 		<Spanish>Military [F5]:</Spanish>
 	</TEXT>
@@ -334,7 +334,7 @@
 		<Tag>TXT_KEY_BUG_OPTLABEL_ESPIONAGE_RATIO</Tag>
 		<English>Ratio:</English>
 		<French>Pro Rata:</French>
-		<German>Spionagepunktverhältnis:</German>
+		<German>Spionagepunktverhï¿½ltnis:</German>
 		<Italian>Rapporto:</Italian>
 		<Spanish>Ratio:</Spanish>
 	</TEXT>
@@ -354,7 +354,7 @@
 		<English>City Screen</English>
 		<French>City Screen</French>
 		<German>Stadt-Bildschirm</German>
-		<Italian>Città</Italian>
+		<Italian>Cittï¿½</Italian>
 		<Spanish>City Screen</Spanish>
 	</TEXT>
 	<TEXT>
@@ -369,7 +369,7 @@
 		<Tag>TXT_KEY_BUG_OPTLABEL_GREATPERSONBAR</Tag>
 		<English>Great Person Bar:</English>
 		<French>Great Person Bar:</French>
-		<German>Anzeige für Große Persönlichkeit-Punkte:</German>
+		<German>Anzeige fï¿½r Groï¿½e Persï¿½nlichkeit-Punkte:</German>
 		<Italian>Barra dei Grandi Personaggi:</Italian>
 		<Spanish>Great Person Bar:</Spanish>
 	</TEXT>
@@ -377,7 +377,7 @@
 		<Tag>TXT_KEY_BUG_OPTLABEL_BUILDINGEFFECTS</Tag>
 		<English>Building Actual Effects:</English>
 		<French>Building Actual Effects:</French>
-		<German>Effektive Gebäudeerträge:</German>
+		<German>Effektive Gebï¿½udeertrï¿½ge:</German>
 		<Italian>Effetti degli Edifici:</Italian>
 		<Spanish>Building Actual Effects:</Spanish>
 	</TEXT>
@@ -464,15 +464,15 @@
 		<Tag>TXT_KEY_BUG_OPTLABEL_SCORES_DEAD_CIVS</Tag>
 		<English>Dead Civilizations:</English>
 		<French>Civilisations Mortes:</French>
-		<German>Ausgelöschte Zivilisationen:</German>
-		<Italian>Civiltà scomparse:</Italian>
+		<German>Ausgelï¿½schte Zivilisationen:</German>
+		<Italian>Civiltï¿½ scomparse:</Italian>
 		<Spanish>Dead Civilizations:</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPTLABEL_SCORES_NEW_COLUMNS</Tag>
 		<English>Additional Columns:</English>
 		<French>Additional Columns:</French>
-		<German>Zusätzliche Spalten:</German>
+		<German>Zusï¿½tzliche Spalten:</German>
 		<Italian>Colonne aggiuntive:</Italian>
 		<Spanish>Additional Columns:</Spanish>
 	</TEXT>
@@ -487,7 +487,7 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPTLABEL_SCORES_GRID</Tag>
 		<English>Advanced Layout:</English>
-		<French>Layout Avancé:</French>
+		<French>Layout Avancï¿½:</French>
 		<German>Erweitertes Layout:</German>
 		<Italian>Layout avanzato:</Italian>
 		<Spanish>Advanced Layout:</Spanish>
@@ -508,23 +508,23 @@
 		<English>Plot List</English>
 		<French>Plot List</French>
 		<German>Einheitenliste</German>
-		<Italian>Icone Unità</Italian>
+		<Italian>Icone Unitï¿½</Italian>
 		<Spanish>Plot List</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPTLABEL_PLE_INDICATORS</Tag>
 		<English>Indicators:</English>
 		<French>Indicators:</French>
-		<German>Zusätzliche Anzeigen:</German>
+		<German>Zusï¿½tzliche Anzeigen:</German>
 		<Italian>Indicatori:</Italian>
 		<Spanish>Indicators:</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPTLABEL_PLE_UNIT_INFO_TOOLTIP</Tag>
 		<English>Unit Info Tooltip:</English>
-		<French>Infobulle d'Info d'Unité:</French>
+		<French>Infobulle d'Info d'Unitï¿½:</French>
 		<German>Info-Tooltip:</German>
-		<Italian>Informazioni sulle Unità:</Italian>
+		<Italian>Informazioni sulle Unitï¿½:</Italian>
 		<Spanish>Unit Info Tooltip:</Spanish>
 	</TEXT>
 	<TEXT>
@@ -539,7 +539,7 @@
 		<Tag>TXT_KEY_BUG_OPTLABEL_PLE_SPECIALTIES</Tag>
 		<English>Unit Specialties:</English>
 		<French>Unit Specialties:</French>
-		<German>Spezialfähigkeiten:</German>
+		<German>Spezialfï¿½higkeiten:</German>
 		<Italian>Caratteristiche:</Italian>
 		<Spanish>Unit Specialties:</Spanish>
 	</TEXT>
@@ -551,7 +551,7 @@
 		<English>Odds</English>
 		<French>Odds</French>
 		<German>Siegchancen</German>
-		<Italian>Probabilità</Italian>
+		<Italian>Probabilitï¿½</Italian>
 		<Spanish>Odds</Spanish>
 	</TEXT>
 	
@@ -569,8 +569,8 @@
 		<Tag>TXT_KEY_BUG_OPTLABEL_ALERTS_CITY</Tag>
 		<English>City:</English>
 		<French>Ville:</French>
-		<German>Städte:</German>
-		<Italian>Città:</Italian>
+		<German>Stï¿½dte:</German>
+		<Italian>Cittï¿½:</Italian>
 		<Spanish>City:</Spanish>
 	</TEXT>
 	<TEXT>
@@ -636,14 +636,14 @@
 		<Tag>TXT_KEY_BUG_OPTLABEL_AUTOLOG_CITIES</Tag>
 		<English>Cities:</English>
 		<French>Villes:</French>
-		<German>Städte:</German>
-		<Italian>Città:</Italian>
+		<German>Stï¿½dte:</German>
+		<Italian>Cittï¿½:</Italian>
 		<Spanish>Cities:</Spanish>
 	</TEXT>
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPTLABEL_AUTOLOG_EVENTS</Tag>
 		<English>Events:</English>
-		<French>Evènements:</French>
+		<French>Evï¿½nements:</French>
 		<German>Ereignisse:</German>
 		<Italian>Eventi:</Italian>
 		<Spanish>Events:</Spanish>
@@ -679,9 +679,9 @@
 	<TEXT>
 		<Tag>TXT_KEY_BUG_OPTTAB_UNITNAMING</Tag>
 		<English>Unit Names</English>
-		<French>Noms des Unités</French>
+		<French>Noms des Unitï¿½s</French>
 		<German>Einheitennamen</German>
-		<Italian>Nomi Unità</Italian>
+		<Italian>Nomi Unitï¿½</Italian>
 		<Spanish>Unit Naming</Spanish>
 	</TEXT>
 	
@@ -767,7 +767,7 @@
 		<English>Advanced Unit Naming Options File:</English>
 		<French>Fichier d'options Advanced Unit Naming:</French>
 		<German>"Advanced Unit Naming"-Optionsdatei:</German>
-		<Italian>File per la Denominazione avanzata delle Unità:</Italian>
+		<Italian>File per la Denominazione avanzata delle Unitï¿½:</Italian>
 		<Spanish>Advanced Unit Naming Options File:</Spanish>
 	</TEXT>
 	<TEXT>
@@ -817,7 +817,7 @@
 		<Tag>TXT_KEY_BUG_OPTLABEL_TRANSLATORS</Tag>
 		<English>Translators</English>
 		<French>Traducteurs</French>
-		<German>Übersetzer</German>
+		<German>ï¿½bersetzer</German>
 		<Italian>Traduttori</Italian>
 		<Spanish>Translators</Spanish>
 	</TEXT>

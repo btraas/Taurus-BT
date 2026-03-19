@@ -23,7 +23,7 @@ public:
 		by the ctor */
 	char const* getFullPath() const { return m_sFullPath.c_str(); }
 	char const* getPathInRoot() const { return m_sPathInRoot.c_str(); }
-	// Just the name of the mod's folder, e.g. "Taurus".
+	// Just the name of the mod's folder, e.g. "Tarus BT".
 	char const* getName() const { return m_sName.c_str(); }
 	/*	These three getters return the names currently stored in the EXE.
 		These can temporarily, while reading or writing a savegame, differ

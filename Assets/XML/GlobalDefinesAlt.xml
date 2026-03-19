@@ -4,7 +4,7 @@
 	This file is used only when BULL is running without BUG,
 	but it will cause no harm to include it with BUG."
 	Taurus is bundled with BUG, so we don't need that.
-	Will instead use this file for any GlobalDefines that Taurus adds. -->
+	Will instead use this file for any GlobalDefines that Tarus BT adds. -->
 <Civ4Defines xmlns="x-schema:CIV4GlobalDefinesSchema.xml">
 
 	<!--
@@ -40,7 +40,7 @@
 	<!-- trs.camspeed: end -->
 
 	<!--
-		Taurus defines ...
+		Tarus BT defines ...
 	-->
 
 	<!-- trs.smc: Set to 1 to disable all code that modifies the EXE
@@ -64,7 +64,7 @@
 		<DefineName>REPLACEMENT_MOD_NAME</DefineName>
         <DefineTextVal></DefineTextVal>
     </Define>
-	<!-- If set 1, then Taurus will disable the mod name check in the EXE to
+	<!-- If set 1, then Tarus BT will disable the mod name check in the EXE to
 		 load BtS savegames (with or without custom assets). If set to 0,
 		 savegames that don't contain a mod name are rejected. -->
 	<Define>
@@ -74,9 +74,9 @@
 	<!-- Comma-separated list of name prefixes. Not case sensitive; spaces
 		 after a comma are ignored.
 		 If the mod name read from a savegame starts with one of these prefixes,
-		 then Taurus will disable the mod name check in the EXE to load the
-		 savegame. The list can be empty; Taurus will then still be able to load
-		 savegames whose mod name matches the name of the folder where Taurus
+		 then Tarus BT will disable the mod name check in the EXE to load the
+		 savegame. The list can be empty; Tarus BT will then still be able to load
+		 savegames whose mod name matches the name of the folder where Tarus BT
 		 is installed. If LOAD_BTS_SAVEGAMES is also disabled, then loading of
 		 savegames works just like in any other mod.
 		 Note that BUFFY saves are encrypted and therefore can't be loaded. -->
@@ -92,7 +92,7 @@
 		 save versions don't match.) -->
 
 	<!-- 1 enables minor AI bugfixes from version 1.6 of the Unofficial Patch
-		 (UP) except in network games, meaning that Taurus will (hopefully) be
+		 (UP) except in network games, meaning that Tarus BT will (hopefully) be
 		 able to stay in sync with any participants that use BULL 1.2 (which
 		 only includes UP 1.5).
 		 2 enables UP 1.6 even in network games.
@@ -105,16 +105,16 @@
 	<!-- trs.modname: end -->
 
 	<!-- trs.replayname:
-		 If set to 0, the Taurus Hall of Fame screen lists only replays of
-		 Taurus games. (Such replays can be correctly identified even when the
+		 If set to 0, the Tarus BT Hall of Fame screen lists only replays of
+		 Tarus BT games. (Such replays can be correctly identified even when the
 		 "Mod Name in Replays" option on the Saves tab of the mod
 		 options screen has been disabled.)
-		 If set to 1, the Taurus Hall of Fame screen also lists replays of
+		 If set to 1, the Tarus BT Hall of Fame screen also lists replays of
 		 BtS games played without mods.
-		 If set to 2, the Taurus Hall of Fame screen also lists replays of
+		 If set to 2, the Tarus BT Hall of Fame screen also lists replays of
 		 games played with any mod covered by COMPATIBLE_MOD_NAME_PREFIXES
 		 (see above).
-		 If set to 3, the Taurus Hall of Fame screen lists all replays found
+		 If set to 3, the Tarus BT Hall of Fame screen lists all replays found
 		 in the Replays folder (My Games\Beyond the Sword\Replays).
 		 If a replay contains unusual text or player colors, those colors are
 		 replaced with the colors available. Error handling code may discard
@@ -132,13 +132,13 @@
 		 CivilizationIV.ini).
 
 		 1 means that the check is disabled for savegames created by other mods,
-		 i.e. for savegames that lack a particular bit that the Taurus DLL sets.
+		 i.e. for savegames that lack a particular bit that the Tarus BT DLL sets.
 
 		 2 means that the check is always enabled when loading savegames.
 
 		 In any case, LMA is never _written_ into savegames that are exported
 		 through Ctrl+Shift+S. For values 1 and 2, LMA _will_ be written into
-		 (non-exported) Taurus savegames even if the Save Mod Name option on
+		 (non-exported) Tarus BT savegames even if the Save Mod Name option on
 		 the mod option screen is disabled. (BtS will then be unable to load
 		 those saves.)
 

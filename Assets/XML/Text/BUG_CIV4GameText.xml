@@ -44,12 +44,12 @@
 	
 	<!-- Help -->
 
-	<!-- trs.doc: Now also the Taurus help file -->
+	<!-- trs.doc: Now also the Tarus BT help file -->
 	<TEXT>
 		<Tag>TXT_KEY_BUG_HELP_OPENING</Tag>
-		<English>Opening the Taurus help file...</English>
+		<English>Opening the Tarus BT help file...</English>
 		<French>Ouverture du fichier d'aide du BUG Mod...</French>
-		<German>Öffnen der Taurus-Hilfe-Datei...</German>
+		<German>Öffnen der Tarus-BT-Hilfe-Datei...</German>
 		<Italian>Apertura della Guida del BUG Mod in corso...</Italian>
 	</TEXT>
 	<!-- trs. Unused, and let's keep it that way. -->

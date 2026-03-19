@@ -15,7 +15,7 @@ from CvMapGeneratorUtil import TerrainGenerator
 from CvMapGeneratorUtil import FeatureGenerator
 
 def getDescription():
-	return "TXT_KEY_MAP_SCRIPT_FRACTAL_DESCR"
+	return "like Fractal, but less desert and less jungle"
 	
 def isAdvancedMap():
 	"This map should show up in simple mode"
@@ -29,12 +29,12 @@ def generatePlotTypes():
 
 def generateTerrainTypes():
 	NiTextOut("Generating Terrain (Python Fractal) ...")
-	terraingen = TerrainGenerator()
+	terraingen = TerrainGenerator(iDesertPercent=16, iPlainsPercent=18, fSnowLatitude=0.7, fTundraLatitude=0.6, fGrassLatitude=0.1, fDesertBottomLatitude=0.2, fDesertTopLatitude=0.5)
 	terrainTypes = terraingen.generateTerrain()
 	return terrainTypes
 
 def addFeatures():
 	NiTextOut("Adding Features (Python Fractal) ...")
-	featuregen = FeatureGenerator()
+	featuregen = FeatureGenerator(iJunglePercent=48, iForestPercent=57)
 	featuregen.addFeatures()
 	return 0

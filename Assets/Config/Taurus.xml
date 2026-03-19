@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1" ?>
 <!-- trs. Config for all options added by the Taurus mod.
-	 (Can still split this up later if it becomes cluttered.) -->
+	 (Can still split this up later if it becomes cluttered.)
+	 Credits: Taurus originally created by f1rpo (major contributor). -->
 <mod id="Taurus"
-	 name="Tarus BT" author="f1rpo" version="1.03.2" date="19/05/2022">
+	 name="Tarus BT" author="btraas" version="1.03.3" date="19/03/2026">
  
 	<options id="Taurus" file="Taurus.ini">
 

@@ -900,7 +900,7 @@ void CvTeam::doTurn()
 					}
 				}
 
-				if (iCount > 0)
+				if (iCount > 1)
 				{
 					FAssertMsg(iPossibleCount > 0, "iPossibleCount is expected to be greater than 0");
 
@@ -913,7 +913,7 @@ void CvTeam::doTurn()
 					changeResearchProgress(((TechTypes)iI), ((getResearchCost((TechTypes)iI) * ((GC.getDefineINT("BARBARIAN_FREE_TECH_PERCENT") * iCount) / iPossibleCount)) / 100), getLeaderID());
 */
 					// From Mongoose SDK, BarbarianPassiveTechFix
-					changeResearchProgress((TechTypes)iI, std::max((getResearchCost((TechTypes)iI) * GC.getDefineINT("BARBARIAN_FREE_TECH_PERCENT") * iCount) / (100 * iPossibleCount), 1), getLeaderID());
+					changeResearchProgress((TechTypes)iI, std::max((getResearchCost((TechTypes)iI) * (GC.getDefineINT("BARBARIAN_FREE_TECH_PERCENT") / 2) * iCount) / (100 * iPossibleCount), 1), getLeaderID());
 /************************************************************************************************/
 /* UNOFFICIAL_PATCH                        END                                                  */
 /************************************************************************************************/

@@ -1,9 +1,9 @@
 #CvModName.py
 
 # <trs.>
-modName = "Taurus"
+modName = "Taurus BT"
 displayName = "Tarus BT"
-modVersion = "1.03.2"
+modVersion = "1.03.3"
 civVersion = "3.19"
 # </trs.>
 civName = "BtS"

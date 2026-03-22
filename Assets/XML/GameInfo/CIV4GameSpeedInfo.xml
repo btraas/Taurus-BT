@@ -19,9 +19,9 @@
 			<iBuildPercent>600</iBuildPercent>
 			<iImprovementPercent>600</iImprovementPercent>
 			<iGreatPeoplePercent>600</iGreatPeoplePercent>
-			<iCulturePercent>600</iCulturePercent>
+			<iCulturePercent>300</iCulturePercent>
 			<iAnarchyPercent>400</iAnarchyPercent>
-			<iBarbPercent>800</iBarbPercent>
+			<iBarbPercent>900</iBarbPercent>
 			<iFeatureProductionPercent>600</iFeatureProductionPercent>
 			<iUnitDiscoverPercent>600</iUnitDiscoverPercent>
 			<iUnitHurryPercent>600</iUnitHurryPercent>
@@ -64,7 +64,7 @@
 				</GameTurnInfo>
 				<GameTurnInfo>
 					<iMonthIncrement>1</iMonthIncrement>
-					<iTurnsPerIncrement>312</iTurnsPerIncrement>
+					<iTurnsPerIncrement>413</iTurnsPerIncrement>
 				</GameTurnInfo>
 			</GameTurnInfos>
 		</GameSpeedInfo>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_GAMESPEED_ULTRAMARATHON</Tag>
+		<English>Ultramarathon</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_GAMESPEED_ULTRAMARATHON_HELP</Tag>
+		<English>Extremely long game speed (2x Marathon).</English>
+	</TEXT>
+</Civ4GameText>

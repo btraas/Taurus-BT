@@ -81,13 +81,46 @@ credits = [
 			"Sto - Full of Resources",
 		# <trs.doc>
 		"-",
-		"TAURUS_CREDITS|Tarus BT Mod",
+		"TAURUS_CREDITS|Tarus Mod",
 			"jdog5000 - AI Auto Play",
 			"karadoc (K-Mod) - More flexible loading of translations, various UI tweaks and bugfixes",
 			"Nightinggale - GameCoreDLL Makefile",
 			"alberts2, DarkLunaPhantom, lfgr - a few minor bugfixes",
-			"f1rpo - the rest"
+			"f1rpo - the rest",
 		# </trs.doc>
+        # <trs_bt.doc>
+        "-",
+        "BAT_CREDITS|BAT Mod",
+            "Alerum65 - Developer",
+            "Dresden - Developer",
+            "EmperorFool - Developer",
+            "ruff_hi - Developer",
+            "Lemon Merchant - Developer",
+            "The Doc - Dutch Translator",
+            "Falc - French Translator",
+        "-",
+        "BAT_MOD_AUTHORS|Embedded Mod Authors from BAT",
+            "Avian - Varietas Delectat 9.2 (Cheetah Edition)",
+            "Chugginator - Cultural Diversity 1.1 (optimized by Avian)",
+            "GeoModder - Cultural Citystyles 0.99 (optimized by Avian)",
+            "WillowMound - Actual Quotes - Better Diplomacy Text",
+            "KingKongTR - Better Flags & Buttons",
+            "Chugginator - Improved Graphics Leaderheads",
+            "Kai Fiebach - Blue Marble 4.50 Gold",
+            "Piece of Mind - Advanced Combat Odds",
+            "Asioasioasio, Renegade Chicken & EmperorFool - Events with Images Mod",
+            "SaibotLieh, Lemon Merchant, EmperorFool - Female Unit Graphics",
+            "Lemon Merchant - Lemon's Movie Mod",
+            "OrionVeteran & Roamty - Great Person Mod",
+            "Lemon Merchant - Era Movies",
+            "Lemon Merchant - Lemon's Spy Mod",
+            "Kissa - Icepack & crop textures",
+            "Lemon Merchant - New Aspect Ratio load screens",
+            "The_J - Messages Mod",
+        "-",
+        "TAURUS_BT_CREDITS|Taurus BT Enhancements",
+            "btraas - BAT integration, new maps, barbarian tweaks, Ultramarathon game speed"
+        # </trs_bt.doc>
 ]
 
 class BugCreditsOptionsTab(BugOptionsTab.BugOptionsTab):
